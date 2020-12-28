@@ -1,4 +1,9 @@
 .blog {
   width: 50%; }
 
+.business-card {
+  text-align: center;
+  box-shadow: 0 0 5px;
+  width: 250px; }
+
 /*# sourceMappingURL=main.css.map */
