@@ -4,6 +4,8 @@
 .business-card {
   text-align: center;
   box-shadow: 0 0 5px;
-  width: 250px; }
+  width: 250px;
+  padding: 20px;
+  margin: 0 auto; }
 
 /*# sourceMappingURL=main.css.map */
