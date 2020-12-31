@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Lato&display=swap');
 .blog{
 	width: 50%
 
+}
+.logo{
+	width: 100px;
+	height: 100px;
 }
 .business-card{
 	text-align: center;
@@ -8,4 +13,12 @@
 	width: 250px;
 	padding: 20px;
 	margin: 0 auto;
+	border-radius: 5px;
+	h1{
+		font-family: 'Josefin Sans', sans-serif;
+	}
+	h3,p{
+		font-family: 'Lato', sans-serif;
+	}
+
 }
